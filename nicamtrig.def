@@ -1,0 +1,2 @@
+LIBRARY nicamtrig.mexw64
+EXPORTS mexFunction
